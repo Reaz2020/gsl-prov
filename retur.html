@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <title>return page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Mohammed Reaz Morshed">
+    <meta name="application-name" content="Personal site">
+    <meta name="description" content="personal website">
+    <meta http-equiv="refresh" content="25">
+    <meta name="generator" content="Visual Studio Code">
+    <meta name="keywords" content="online shope">
+    
+    <link rel="stylesheet" href="retur.css">
+    <script src="retur.js" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+</head>
+
+<body>
+
+    <header>
+        
+        
+        <a class="nav" href="welcome.html"><i class="fa fa-home"></i> Home</a> 
+        <a class="nav" href="men.html">Man</a> 
+        <a class="nav" href="women.html">Women</a>
+        <a class="nav" href="kids.html">Kids</a>
+     
+    </header>
+    <section class="return-requirments">
+   <ul>
+    <li>Return within a max 30 days of shope</li>
+   <li>Has to be in a good condition</li>
+   <li>Needs to be in its original pack</li>
+   <li>Needs to submit the return form  first </li>
+</ul>
+</section>
+
+    <main>
+       
+
+        <form id="returnForm" enctype="multipart/form-data">
+            <h1>Return form</h1>
+            <p>Required field * </p>
+            <label for="orderNumber">*Order Number:</label>
+            <input type="text" id="orderNumber" name="orderNumber" pattern="[A-Za-z0-9]+" required placeholder="AA212438">
+
+            <label for="email">*Email Address:</label>
+            <input type="email" id="email" name="email" required value="example.e@nys.com">
+
+            <label for="phoneNumber">*Phone Number:</label>
+            <input type="tel" id="phoneNumber" name="phoneNumber" required>
+
+            <label for="reason">*Reason for Return (max 100 words):</label>
+            <textarea id="reason" name="reason" rows="4" maxlength="100" required></textarea>
+
+            <label for="attachment">Attach picture :</label>
+            <input type="file" id="attachment" name="attachment" accept="image/*">
+
+            <input class="submit" type="submit" value="Submit request">
+        </form>
+
+       
+    </main>
+
+    <footer class="footer">
+        
+            <p>Phone: 084326719 , email: info@nys.com </p>         
+            <a href="https://www.google.com/maps/place/Pressarvägen+11,+176+71+Järfälla/@59.4542554,17.8040131,17z/data=!3m1!4b1!4m6!3m5!1s0x465fa189223fb5e7:0x76ddf14670e4fea4!8m2!3d59.4542554!4d17.806588!16s%2Fg%2F11c1yvhhds?entry=ttu" target="_blank">Click here to Find us</a>
+            
+        
+    </footer>
+
+</body>
+
+</html>

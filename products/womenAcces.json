@@ -1,0 +1,97 @@
+[
+    {
+      "id": 1,
+      "name": "T-Shirt 1",
+      "price": 19.99,
+      "image": "shirts/ts1.png"
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt 2",
+      "price": 24.99,
+      "image": "shirts/ts2.png"
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt 3",
+      "price": 29.99,
+      "image": "shirts/ts3.png"
+    },
+    {
+        "id": 4,
+        "name": "T-Shirt 4",
+        "price": 19.99,
+        "image": "shirts/ts1.png"
+      },
+      {
+        "id": 5,
+        "name": "T-Shirt 5",
+        "price": 24.99,
+        "image": "shirts/ts2.png"
+      },
+      {
+        "id": 6,
+        "name": "T-Shirt 6",
+        "price": 29.99,
+        "image": "shirts/ts3.png"
+      },
+      {
+        "id": 7,
+        "name": "T-Shirt 7",
+        "price": 19.99,
+        "image": "shirts/ts1.png"
+      },
+      {
+        "id": 8,
+        "name": "T-Shirt 8",
+        "price": 24.99,
+        "image": "shirts/ts2.png"
+      },
+      {
+        "id": 9,
+        "name": "T-Shirt 9",
+        "price": 29.99,
+        "image": "shirts/ts3.png"
+      },
+      {
+        "id": 10,
+        "name": "T-Shirt 10",
+        "price": 19.99,
+        "image": "shirts/ts1.png"
+      },
+      {
+        "id": 11,
+        "name": "T-Shirt 11",
+        "price": 24.99,
+        "image": "shirts/ts2.png"
+      },
+      {
+        "id": 12,
+        "name": "T-Shirt 12",
+        "price": 29.99,
+        "image": "shirts/ts3.png"
+      },
+      {
+        "id": 13,
+        "name": "T-Shirt 13",
+        "price": 29.99,
+        "image": "shirts/ts3.png"
+      }, {
+        "id": 14,
+        "name": "T-Shirt 14",
+        "price": 29.99,
+        "image": "shirts/ts3.png"
+      }
+      , {
+        "id": 15,
+        "name": "T-Shirt 15",
+        "price": 29.99,
+        "image": "shirts/ts3.png"
+      }, {
+        "id": 16,
+        "name": "T-Shirt 16",
+        "price": 29.99,
+        "image": "shirts/ts3.png"
+      }
+  ]
+  
